@@ -7,6 +7,14 @@
   Gatsby minimal starter
 </h1>
 
+## Gatsby Tuto
+
+Gatsby.js の公式チュートリアルをやってみる
+
+https://www.gatsbyjs.com/docs/tutorial/
+
+21/06/15 現在このチュートリアルはv3系
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
